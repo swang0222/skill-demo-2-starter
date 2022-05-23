@@ -35,4 +35,4 @@ You're free to use any and all course notes/code/videos/labs/etc. for help,
 along with your prior work. Your video must be entirely your own work.
 
 Submit your video to [Skill Demonstration
-2]() by Sunday, May 29th at 11:59
+2](gradescope.com) by Sunday, May 29th at 11:59
